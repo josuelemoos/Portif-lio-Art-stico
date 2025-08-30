@@ -53,7 +53,7 @@ const App = () => {
       medium: "Pintura Digital",
       dimensions: "A4",
       description: "Personagem criada para um RPG D&D chamada Antinua, uma alta elfa",
-      image: "https://ibb.co/fVTjLJkW"
+      image: "https://i.ibb.co/ymxH726C/leticia.png"
     },
     {
       id: 2,
@@ -62,7 +62,7 @@ const App = () => {
       medium: "Pintura Digital",
       dimensions: "A4",
       description: "Personagem criado para um RPG D&D chamado Rupestro, uma Mago Tiefling",
-      image: "https://ibb.co/2YSNQNPK"
+      image: "https://i.ibb.co/1JM656K2/mado-dd.png"
     },
     {
       id: 3,
@@ -71,7 +71,7 @@ const App = () => {
       medium: "Pintura digital",
       dimensions: "A4",
       description: "titulo ta auto explicativo",
-      image: "https://ibb.co/4nQ8vBHH"
+      image: "https://i.ibb.co/5g7rpqPP/paisagem.png"
     },
     {
       id: 4,
@@ -80,7 +80,7 @@ const App = () => {
       medium: "Arte digital ",
       dimensions: "A4",
       description: "Grande spaw.",
-      image: "https://ibb.co/zHL74tsc"
+      image: "https://i.ibb.co/R4MBDJ2n/spaw.png" 
     },
     {
       id: 5,
@@ -89,7 +89,7 @@ const App = () => {
       medium: "pintura digital ",
       dimensions: "110 x 80 cm",
       description: " serie de tentativas de pintura no inicio do digital",
-      image: "https://ibb.co/nqqCY6Nc"
+      image: "https://i.ibb.co/HLLdbBfz/test2.png" 
     },
     /*{
       id: 6,
