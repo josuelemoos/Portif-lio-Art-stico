@@ -187,7 +187,7 @@ const App = () => {
         }}>
           <div>
             <img 
-              src="https://ibb.co/SFwPrFy" 
+              src="https://i.ibb.co/mf5G8fT/eu.jpg" 
               alt="Artista" 
               style={{
                 width: '100%',
